@@ -1,4 +1,4 @@
-# Hospitality_Project_PowerBi
+# Hospitality Project PowerBi
 
 # Atliq hospitatility visualization
 
