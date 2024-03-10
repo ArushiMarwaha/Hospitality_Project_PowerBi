@@ -46,5 +46,5 @@ This challenge provided me with a real-life experience of working within a compa
 >Learn how to implement the metrics with proper visualization.
 >Learn better Understanding at how to do proper data modelling. 
 >Learn and connected the tables via star schema with many-to-one relation.
-![Atliq Hospitality sheet 1]()
+![Atliq Hospitality sheet 1](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/AtliQ%20Dashboard.png)
 ![Atliq Hospitality sheet 2](a00b.png)
