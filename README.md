@@ -59,6 +59,12 @@ Key Learning Outcomes:
 3. **Star Schema Implementation with Many-to-One Relations:** Successfully applied the star schema methodology to interconnect tables, establishing efficient many-to-one relationships. This practice significantly contributed to the optimization of data retrieval and analysis processes within the project.
 
 The acquired knowledge and skills during this challenge serve as a testament to the continual growth and development as a data analyst, positioning me to contribute effectively in future professional endeavors.
+## Data Model Created
+<p align="center">
+    <img src="https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/datamodel.png">
+</p>
+
+## Dashboard
 <p align="center">
     <img src="https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/AtliQ%20Dashboard.png">
 </p>
