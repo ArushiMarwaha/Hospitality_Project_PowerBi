@@ -6,6 +6,10 @@ In this project, I followed Codebasics' YouTube tutorial, guided by Abhishek Ana
 The aim of my project was to construct a dashboard for Atliq Grands in the Hospitality Domain using Power BI. The primary goal was to enhance my resume by adding a real-time project. The challenge involved providing valuable insights to the Revenue Team at Atliq Grands.
 About the client, Atliq Grands owns multiple five-star hotels across India and has been a key player in the hospitality industry for the past two decades. Facing challenges from competitors and making ineffective management decisions, they were experiencing a decline in market share and revenue in the luxury/business hotels category.
 In response, the managing director of Atliq Grands sought to incorporate "Business and Data Intelligence" as a strategic move to regain their market share and revenue. My contribution to this initiative was to create a Power BI dashboard, offering insights to aid Atliq Grands in their journey towards recovery.
+The team provided the a mockup dashboard:
+<p align="center">
+    <img src="https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/mock%20up%20dashboard%20atliq.png" width="600">
+</p>
 
 # Technology Utilized
 
@@ -55,7 +59,8 @@ Key Learning Outcomes:
 3. **Star Schema Implementation with Many-to-One Relations:** Successfully applied the star schema methodology to interconnect tables, establishing efficient many-to-one relationships. This practice significantly contributed to the optimization of data retrieval and analysis processes within the project.
 
 The acquired knowledge and skills during this challenge serve as a testament to the continual growth and development as a data analyst, positioning me to contribute effectively in future professional endeavors.
+<p align="center">
+    <img src="https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/AtliQ%20Dashboard.png">
+</p>
 
-
-![Atliq Dashboard](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/AtliQ%20Dashboard.png)
 
