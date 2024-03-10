@@ -42,9 +42,20 @@ The dashboard showcases a comprehensive array of features, offering in-depth ins
 8. **DBRN (Daily Booked Room Nights):** Visualizes the daily count of booked rooms.
 9. **DURN (Daily Utilized Room Nights):** Illustrates the daily utilization of rooms.
 
-This challenge provided me with a real-life experience of working within a company and an excellent opportunity to develop an understanding of what a data analyst at a company works.
->Learn how to implement the metrics with proper visualization.
->Learn better Understanding at how to do proper data modelling. 
->Learn and connected the tables via star schema with many-to-one relation.
-![Atliq Hospitality sheet 1](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/AtliQ%20Dashboard.png)
-![Atliq Hospitality sheet 2](a00b.png)
+# Project Experience and Learning Highlights
+
+This project offered a valuable real-world engagement, providing firsthand insights into the dynamics of a corporate setting and affording a nuanced understanding of the role of a data analyst within an organizational context.
+
+Key Learning Outcomes:
+
+1. **Metrics Implementation with Visualization:** Acquired proficiency in implementing essential metrics, coupled with adept visualization techniques. This experience enhanced my ability to translate raw data into meaningful insights through impactful visualizations.
+
+2. **Advanced Data Modeling Skills:** Gained a comprehensive understanding of advanced data modeling practices. This involved honing the skills required to structure and organize data effectively, ensuring optimal representation for analytical purposes.
+
+3. **Star Schema Implementation with Many-to-One Relations:** Successfully applied the star schema methodology to interconnect tables, establishing efficient many-to-one relationships. This practice significantly contributed to the optimization of data retrieval and analysis processes within the project.
+
+The acquired knowledge and skills during this challenge serve as a testament to the continual growth and development as a data analyst, positioning me to contribute effectively in future professional endeavors.
+
+
+![Atliq Dashboard](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/AtliQ%20Dashboard.png)
+
